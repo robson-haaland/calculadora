@@ -27,4 +27,8 @@
 
 # Autor
 
-<h1>Robson Condes</h1>
+<h1 align="center">Robson Condes</h1>
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/212b9b2a-daeb-4489-bd22-bdd04e0755b9" />
+</div>
